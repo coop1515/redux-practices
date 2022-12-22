@@ -6,9 +6,18 @@ React-Redux로 유명하지만 React뿐 아니라 Vue, angular에서도 사용 �
 ```
 
 1. Chapter1 - Vanilla &  Redux
+```
 
-2. Chapter2 - ToDo
+```
+2. Chapter2 - ToDo (Vanilla & Redux)
+```
 
-3. Chapter3
+```
+3. Chapter3 - React & Redux
+```
 
+```
 4. Chapter4
+```
+
+```
